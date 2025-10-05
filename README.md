@@ -1,5 +1,8 @@
 # Masala Showcase - Flutter Application
 
+[![GitHub issues](https://img.shields.io/github/issues/rahul14322982/Freelancing-1-masala-appp-)](https://github.com/rahul14322982/Freelancing-1-masala-appp-/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/rahul14322982/Freelancing-1-masala-appp-)](https://github.com/rahul14322982/Freelancing-1-masala-appp-/issues?q=is%3Aissue+is%3Aclosed)
+
 A beautiful Flutter application for showcasing and selling homemade masala items using GetX state management.
 
 ## Features
